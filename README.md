@@ -53,10 +53,8 @@ cd sentiment-analyzer-mistral
 
 ## 📝 Usage
 
-Use the frontend interface to input any text
-
-The app will send the text to the backend, which classifies the sentiment using the Mistral model
-
-The predicted sentiment (e.g., positive, negative, neutral) will be displayed immediately
+- Use the frontend interface to input any text.
+- The app will send the text to the backend, which classifies the sentiment using the Mistral model.
+- The predicted sentiment (e.g., positive, negative, neutral) will be displayed immediately on the frontend.
 ---
 
